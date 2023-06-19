@@ -1,0 +1,24 @@
+[submodule "Project1APBD"]
+	path = Project1APBD
+	url = git@github.com:Mil000D/Project1APBD.git
+[submodule "Project2APBD"]
+	path = Project2APBD
+	url = git@github.com:Mil000D/Project2APBD.git
+[submodule "Project3APBD"]
+	path = Project3APBD
+	url = git@github.com:Mil000D/Project3APBD.git
+[submodule "Project4APBD"]
+	path = Project4APBD
+	url = git@github.com:Mil000D/Project4APBD.git
+[submodule "Project5APBD"]
+	path = Project5APBD
+	url = git@github.com:Mil000D/Project5APBD.git
+[submodule "Project6APBD"]
+	path = Project6APBD
+	url = git@github.com:Mil000D/Project6APBD.git
+[submodule "Project7APBD"]
+	path = Project7APBD
+	url = git@github.com:Mil000D/Project7APBD.git
+[submodule "Project8APBD"]
+	path = Project8APBD
+	url = git@github.com:Mil000D/Project8APBD.git
