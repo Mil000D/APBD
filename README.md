@@ -1,2 +1,2 @@
 # APBD
-C# projects related to the use of databases and .Net.
+C# projects related to the use of databases and .NET.
